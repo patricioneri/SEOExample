@@ -1,0 +1,32 @@
+body{
+    background-color: #19191a;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-content: flex-start
+}
+
+section p {
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: 20px;
+    width: 50%;
+}
+
+.logo {
+    width: 400px;
+}
+
